@@ -341,5 +341,8 @@ It does not claim to be a complete production scheduling, messaging, or notifica
 
 Nudge is part of a broader Applied AI and software-engineering portfolio covering Generative AI, RAG, Agentic AI, AI platform engineering, governed AI, backend/API engineering, full-stack product development, and reliability-oriented systems.
 
-**GitHub:** [chaitanyaAI-careers](https://github.com/chaitanyaAI-careers)  
-**LinkedIn:** [linkedin.com/in/chaitanyaai-careers](https://www.linkedin.com/in/chaitanyaai-careers/)
+**Chaitanya Sai — Applied AI Engineer**
+
+Generative AI · LLMs · RAG · Agentic AI · AI Platform & Backend Engineering
+
+[Portfolio](https://chaitanya-sai-portfolio.vercel.app) · [GitHub](https://github.com/chaitanyaAI-careers) · [LinkedIn](https://www.linkedin.com/in/chaitanyaai-careers/)
