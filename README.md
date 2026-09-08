@@ -85,6 +85,10 @@ Infrastructure-specific implementations such as a production scheduler, queue wo
 
 ---
 
+![Nudge evidence-aware workflow architecture](docs/architecture/nudge-architecture.png)
+
+---
+
 ## Implemented Capabilities
 
 ### Scheduled Work Contract
