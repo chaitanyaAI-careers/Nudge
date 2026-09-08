@@ -1,3 +1,5 @@
+![Project header](docs/branding/readme-header.png)
+
 # Nudge
 
 ### Reliable Workflow Contracts for Scheduled and Queue-Driven Systems
