@@ -349,7 +349,7 @@ Nudge is part of a broader Applied AI and software-engineering portfolio coverin
 
 **Chaitanya Sai — Applied AI Engineer**
 
-Generative AI · LLMs · RAG · Agentic AI · AI Platform & Backend Engineering
+Generative AI · LLM Applications · RAG · Agentic AI · AI Platform & Backend Engineering
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://chaitanya-sai-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyaAI-careers)
